@@ -16,6 +16,9 @@ I'm passionate about building AI systems that make a real-world impact, especial
 
 I may be quiet, but I hope my code speaks volumes.✨
 
+🧑‍🤝‍🧑 I'm the main contributor to most of my GitHub projects - along with my second brain, a.k.a [noname180294](https://github.com/noname180294).  
+Some say we're two people. I say... we're just collaborating across timelines 😎
+
 ## 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%B5-anh-9a3592323/)
