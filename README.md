@@ -12,9 +12,7 @@ I’m passionate about building AI systems that make a real-world impact - espec
 
 ---
 
-🧑‍🤝‍🧑 Most of my projects are built by two contributors:  
-**Me**, and my second brain - operating as [noname180294](https://github.com/noname180294).  
-Some say it's an alt. I say we're just *collaborating across timelines* 😎
+🧑‍🤝‍🧑 Most of my projects are built by two contributors:  **Me**, and my second brain - operating as [noname180294](https://github.com/noname180294) 😎
 
 ## 🌐 Socials
 
