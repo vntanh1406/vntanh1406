@@ -1,5 +1,3 @@
-
-
 # 💫About Me :
 
 Hi there! I'm Tram Anh, but you can call me Ann 👋
@@ -12,7 +10,7 @@ I'm passionate about building AI systems that make a real-world impact, especial
 
 🧠 I love solving problems that require both logic and creativity
 
-💬 I speak Python, JavaScript, and a bit of Kotlin, C++, and sometimes human 😅
+💬 I speak Python, C++, and a bit of Kotlin, Javascript, and sometimes human 😅
 
 🎓 Currently preparing for a Master's degree in AI/Data Science, aiming to dive deeper into research and applications
 
