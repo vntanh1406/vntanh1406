@@ -1,23 +1,22 @@
-# 💫About Me :
+# 💫 About Me
 
-Hi there! I'm Tram Anh, but you can call me Ann 👋
+Hi there! I'm Tram Anh — but friends (and GitHub) call me Ann 👋  
+I'm currently studying Information Technology, majoring in Data Science, at the University of Management and Technology, HCMC.
 
-I'm currently studying Information Technology with a major in Data Science at the University of Management and Technology, HCMC.
+I’m passionate about building AI systems that make a real-world impact — especially in **healthcare**, **music**, and **education**.  
+Right now, I'm diving deep into topics like **Deep Learning**, **Computer Vision**, and **AI for Music** (automated music transcription is my jam 🎶).
 
-I'm passionate about building AI systems that make a real-world impact, especially in healthcare and music.
+🧠 I love solving problems that blend logic and creativity.  
+💬 I speak Python, C++, and a bit of Kotlin, JavaScript — and occasionally, human 😅  
+🎓 Currently preparing for a Master’s in AI/Data Science to take things to the next (neural) level.
 
-🌱 I'm exploring topics in Deep Learning, Computer Vision, and AI for Music (Automated Music Transcription is my jam 🎶)
+I may be quiet, but I hope my code speaks volumes. ✨
 
-🧠 I love solving problems that require both logic and creativity
+---
 
-💬 I speak Python, C++, and a bit of Kotlin, Javascript, and sometimes human 😅
-
-🎓 Currently preparing for a Master's degree in AI/Data Science, aiming to dive deeper into research and applications
-
-I may be quiet, but I hope my code speaks volumes.✨
-
-🧑‍🤝‍🧑 I'm the main contributor to most of my GitHub projects - along with my second brain, a.k.a [noname180294](https://github.com/noname180294).  
-Some say we're two people. I say... we're just collaborating across timelines 😎
+🧑‍🤝‍🧑 Most of my projects are built by two contributors:  
+**Me**, and… well, also me — operating as [noname180294](https://github.com/noname180294).  
+Some say it's an alt. I say we're just *collaborating across timelines* 😎
 
 ## 🌐Socials
 
