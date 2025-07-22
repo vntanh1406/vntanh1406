@@ -5,8 +5,8 @@
 Hi there! I'm Tram Anh - but friends call me Ann 👋  
 I'm currently studying Information Technology, majoring in Data Science, at the University of Management and Technology, HCMC.
 
-I’m passionate about building AI systems that make a real-world impact - especially in **healthcare**, **music**, and **education**.  
-Right now, I'm diving deep into topics like **Deep Learning**, **Computer Vision**, and **AI for Music** (automated music transcription is my jam 🎶).
+I’m passionate about building AI systems that make a real-world impact - especially in **healthcare** and **music**.  
+Right now, I'm diving deep into topics like **Deep Learning**, **Computer Vision**, and, of course, **AI for Music**🎶.
 
 🧠 I love solving problems that blend logic and creativity.  
 💬 I speak Python, C++, and a bit of Kotlin, JavaScript - and occasionally, human 😅  
