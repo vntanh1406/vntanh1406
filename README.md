@@ -1,5 +1,7 @@
 # 💫 About Me
 
+![My SVG Logo](./vntanh1406.svg)
+
 Hi there! I'm Tram Anh - but friends (and GitHub) call me Ann 👋  
 I'm currently studying Information Technology, majoring in Data Science, at the University of Management and Technology, HCMC.
 
