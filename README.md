@@ -2,13 +2,12 @@
 
 ![My SVG Logo](./vntanh1406.svg)
 
-Hi there! I'm Tram Anh - but friends call me Ann 👋  I'm currently studying Information Technology, majoring in Data Science.
+Hi there! I'm **Tram Anh** - but friends call me **Ann** - from **Vietnam** 👋
 
-I’m passionate about building AI systems that make a real-world impact - especially in **healthcare** and **music** 🎶.  
-
-🧠 I love solving problems that blend logic and creativity.  
-💬 I mainly speak Python and C++, and occasionally human 😅  
-🎓 I'm preparing for a Master’s degree in AI/Data Science to take things to the next (neural) level.
+- 🧠 My love for playing guitar directly drives my interest in computer music and audio processing models 🎶! 
+- 💬 I mainly speak Python and C++, and occasionally human 😅.
+- 🎓 I'm currently starting my Master of Computer Science (Data Science & Artificial Intelligence) to take things to the next (neural) level 🎀.
+- 🎮 Outside of coding, I'm a die-hard **League of Legends** fan *(chovangchobackhongbangChovy, iykyk:))*. This passion fuels my curiosity for reinforcement learning, game AI, and esports data analytics 🔮.
 
 ---
 
